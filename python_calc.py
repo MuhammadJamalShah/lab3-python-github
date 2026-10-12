@@ -20,7 +20,7 @@ def percentage(a, b):
         return None
     return (a / b) * 100
 def show_menu():
-    print("\n===== Python Calculator =====")
+    print("\n===== Welcome to My Python Calculator =====")
     print("1. Addition")
     print("2. Subtraction")
     print("3. Multiplication")
